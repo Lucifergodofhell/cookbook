@@ -1,0 +1,12 @@
+C:\Users\rdhal\source\repos\Webproject\Webproject\bin\Debug\netcoreapp2.0\Webproject.deps.json
+C:\Users\rdhal\source\repos\Webproject\Webproject\bin\Debug\netcoreapp2.0\Webproject.runtimeconfig.json
+C:\Users\rdhal\source\repos\Webproject\Webproject\bin\Debug\netcoreapp2.0\Webproject.runtimeconfig.dev.json
+C:\Users\rdhal\source\repos\Webproject\Webproject\bin\Debug\netcoreapp2.0\Webproject.dll
+C:\Users\rdhal\source\repos\Webproject\Webproject\bin\Debug\netcoreapp2.0\Webproject.pdb
+C:\Users\rdhal\source\repos\Webproject\Webproject\obj\Debug\netcoreapp2.0\Webproject.csprojAssemblyReference.cache
+C:\Users\rdhal\source\repos\Webproject\Webproject\obj\Debug\netcoreapp2.0\Webproject.csproj.CoreCompileInputs.cache
+C:\Users\rdhal\source\repos\Webproject\Webproject\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\rdhal\source\repos\Webproject\Webproject\obj\Debug\netcoreapp2.0\Webproject.AssemblyInfoInputs.cache
+C:\Users\rdhal\source\repos\Webproject\Webproject\obj\Debug\netcoreapp2.0\Webproject.AssemblyInfo.cs
+C:\Users\rdhal\source\repos\Webproject\Webproject\obj\Debug\netcoreapp2.0\Webproject.dll
+C:\Users\rdhal\source\repos\Webproject\Webproject\obj\Debug\netcoreapp2.0\Webproject.pdb

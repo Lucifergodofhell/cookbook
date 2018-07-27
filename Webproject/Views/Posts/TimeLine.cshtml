@@ -1,0 +1,36 @@
+﻿@using System
+@inject UserManager<ApplicationUser> _userManager
+    @model IEnumerable<Webproject.Models.Tweet.Post>
+
+
+    @{
+        ViewData["Title"] = "Timeline";
+    }
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Tweet)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                @if ((await _userManager.GetUserAsync(User)).Id == item.UserId)
+                {
+                    <tr>
+                        <td class="displaytimeline">
+                            @Html.DisplayFor(modelItem => item.Tweet)
+                        </td>
+                        <td>
+                            |
+                            <a asp-action="Details" asp-route-id="@item.TweetID">Details</a> |
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
